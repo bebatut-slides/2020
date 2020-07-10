@@ -11,10 +11,10 @@ This repository served the slides for my talks.
 2. (If not done yet) Clone the training material GitHub repository: 
 
     ```
-    $ git clone https://github.com/bebatut/talks.git
+    $ git clone https://github.com/bebatut/2020.git
     ```
 
-3. Navigate to the `talks/` folder with `cd`
+3. Navigate to the `2020/` folder with `cd`
 4. Set up the conda environment:
 
     ```
@@ -35,7 +35,7 @@ This repository served the slides for my talks.
     $ make serve
     ```
 
-2. Visualize at `http://localhost:4000/talks/`
+2. Visualize at `http://localhost:4000/2020/`
 
 ## Generate PDF of the slides
 
