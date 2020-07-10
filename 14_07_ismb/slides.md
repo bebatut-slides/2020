@@ -1,15 +1,18 @@
-### Empowering usable, and comprehensive bioinformatics training
+<!-- .slide: data-background="images/title.jpg" data-state="dim-background" -->
+## Empowering usable, and comprehensive bioinformatics training
 
-![](images/cover_art.png) <!-- .element width="60%" -->
+### Bérénice Batut
 
-Bérénice Batut
+<small>[@bebatut](twitter.com/bebatut) - berenice.batut@gmail.com - [research.bebatut.fr](https://research.bebatut.fr)</small>
 
-<small>
 ISMB Education Cosi - July 2020
-</small>
+
 
 ---
 ### Who am I?
+
+Not sure to have such slide
+
 
 ---
 <!-- .slide: data-background="images/student.jpg" data-state="dim-background" -->
@@ -634,6 +637,8 @@ Note:
 
 ---
 ### Thank you!
+
+![](images/thank_you.svg) <!-- .element width="95%" -->
 
 Note:
 Acknowledgement
