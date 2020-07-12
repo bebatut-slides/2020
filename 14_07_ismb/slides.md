@@ -7,6 +7,15 @@
 
 ISMB Education Cosi - July 2020
 
+Note:
+- First of all, I would like to thank the organizers, Patricia & Annette, for inviting me to give the talk here
+- I was really honored when I received the invitation
+- I was not sure what to talk about, I just had some vague idea
+- Specially because I am currently in maternity leave since last Christmas
+- So I am not really there to follow the many changes in bioinformatics training due to the COVID situation
+- I can just witness them, not really an actorthere
+- But I thought I could share what I learned over the last (pre-covid) years in the different bioinformatics training communities I was involved in
+- How to empower usable and comprehensive bioinformatics training
 
 ---
 ### Who am I?
@@ -516,6 +525,7 @@ Note:
 <small>[OLS image for BCC talk](https://docs.google.com/presentation/d/13oi1NjwnStAwC0PqIB22xwai_iUQRDQ94BIwR7b5yH4/present?token=AC4w5Vh5PZq0YVvpS5DjAlnjrFFQTYBYHg%3A1594229079112&includes_info_params=1&eisi=COGczo-WvuoCFW3E0gQdQDEANg#slide=id.g8ae0064c0e_0_122)</small>
 
 Note:
+- Sam
 - Gain open leadership skills
 - Apply these skills hands-on to their project
 - Builds confidence and allows them to embed open science in all aspects of their work, not just the original project idea they brought to OLS
@@ -532,7 +542,8 @@ Note:
 <small>[OLS image for BCC talk](https://docs.google.com/presentation/d/13oi1NjwnStAwC0PqIB22xwai_iUQRDQ94BIwR7b5yH4/present?token=AC4w5Vh5PZq0YVvpS5DjAlnjrFFQTYBYHg%3A1594229079112&includes_info_params=1&eisi=COGczo-WvuoCFW3E0gQdQDEANg#slide=id.g8b9c80d844_0_14)</small>
 
 Note:
-- Sam is now an Open Science practitioner
+- Sam
+- Are now an Open Science practitioner
 - Understand the gaps others may in Open Science
 - Can now join OLS as mentor to guide mentee with their project
 - Become also expert to share their knowledge with all participants by giving talks during cohort calls and help other projects with some consulting
@@ -547,10 +558,14 @@ Note:
 - <!-- .element: class="footer" --> Photo by <a href="https://unsplash.com/@gcalebjones?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Caleb Jones</a> on <a href="https://unsplash.com/s/photos/path?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 
 Note:
-- Summary schema of the path
+- Sam story
+    - Learner
+    - Trainer
+    - Training content developer
+    - Mentor
+    - Expert
 - Fake but likely story
 - Many possible paths
-- Other possible path
 
 ---
 <!-- .slide: data-background="images/empowering_bioinformatics_training.jpg" data-state="dim-background" -->
@@ -558,10 +573,8 @@ Note:
 ## How to empower usable, and comprehensive bioinformatics training?
 
 Note:
-What could make that feasible?
-What do we need to build meaningful, powerful and empowering bioinformatics training
-What could be powerful bioinformatic training
-Empowering usable, and comprehensive bioinformatics training
+- What do we need to empower usable and comprehensive bioinformatics training
+- Want now to share what I learned over the last 4 years about bioinformatics training
 
 ----
 <!-- .slide: data-background="images/short_format.jpg" data-state="dim-background" -->
@@ -594,15 +607,21 @@ Note:
 <small>[Garcia et al, Plos Comp Biol, 2020](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854) + Poster </small>
 
 Note:
-- 
-Search for material
-GTN
-FAIR training
-tess
-
-Creating materials is a key task in the development of every training course. As trainers, we often turn to the internet for inspiration and/or to find existing training materials that can be adapted and reused. This search for materials can be a challenging and time consuming task. Within ELIXIR we saw an opportunity to improve this situation by translating the FAIR principles (that have been applied to data and software) into 10 simple rules to make training materials easier to find, access, reuse and cite.
-
-These 10 simple steps are the beginning of a journey towards FAIRifying training materials and making them easier to find, share, reuse and cite. We hope that this inspires conversations and collaborations within global training communities that will lead to positive changes in the way we work and think about training. To learn more about the 10 steps you can read the paper in full in PLoS Computational Biology (https://doi.org/10.1371/journal.pcbi.1007854).
+- Creating material: key task in the development of every training course
+- Often turn to the internet for inspiration and/or to find existing training materials that can be adapted and reused
+- Search for materials can be a challenging and time consuming task
+- A working group within ELIXIR
+- Translate the FAIR principles into 10 simple rules to make training materials easier to find, access, reuse and cite
+    1. Share material online
+    2. Describe with structured metadata and keywords from ontologies
+    3. Give a unique identifier to make material findable and citable
+    4. Register material on registry like Tess, the ELIXIR's portal for training
+    5. Define access rule, even better make it freely accessible
+    6. Use interoperable format (i.e. not PDF) for different context, i.e. Markdown
+    7. Make (re)usable for trainers with detailed contextual metadata and permissive license
+    8. Make usable for trainees with informations about the material (learning outcomes, prerequisites)
+    9. Welcome contributions with clear rules, warm tones and suggestions for contributions
+    10. Keep material up-to-date and versions
 
 ----
 <!-- .slide: data-background="images/online.jpg" data-state="dim-background" -->
@@ -613,14 +632,16 @@ These 10 simple steps are the beginning of a journey towards FAIRifying training
 
 Note:
 - Give access to the resources
-- More online
+- Not only the material
+- Also tools, data and other infrastructure needed
 - Learn from the COVID situation to move to more online
-- Hybrid training: Gallantries, H3bionet, Australia
-- Some recommendations
-- Full online program: OLS
-- Some recommendations
-- Galaxy paper for online
-- Reaching learners everywhere: H3Bionet, OLS
+- Including teaching itself
+    - Started with Hybrid training: Gallantries, H3bionet, Australia
+    - Full online program: OLS
+- COVID
+    - Development of recommendations for online training
+        - The Carpentries
+        - 1 big hint: having a document in which participants can ask their questions without the need to talk
 
 ----
 <!-- .slide: data-background="images/reusable.jpg" data-state="dim-background" -->
@@ -631,18 +652,13 @@ Note:
 
 Note:
 
-- Learners
+- For Individual Learners
     - Online Material
-    - Required tools reachable
+    - Provide data and tools
+    - Even better an environment for learning that could also be used once back to the lab
 - Instructors
     - Details how to use the material
-    - Technical infrastructure
-
-Instructor: 
-Make required tools available
-Annotation of material (levels, requirements, follow up, etc)  to build learning path
-Provide infrastructure
-TiaaS
+    - Technical infrastructure should be easy to set up
 
 ----
 <!-- .slide: data-background="images/empower.jpg" data-state="dim-background" -->
@@ -653,9 +669,11 @@ TiaaS
 
 Note:
 - Learning by doing
-- Exercises: GTN, OLS, The Carpentries
-- Give them the opportunity and tools to teach their colleagues
-- Build Path from learners to instructors and developer of training content
+- Provide regular assessment (Exercises: GTN, The Carpentries) and tasks to do (OLS) for self-testing
+- Give them the opportunity and tools to teach their colleagues and communities
+- Show them how to contribute
+    - during workshop, show them how to fix an error in tutorials
+- Build path from learners to instructors and developer of training content
 
 ----
 <!-- .slide: data-background="images/interaction.jpg" data-state="dim-background" -->
@@ -665,10 +683,12 @@ Note:
 - <!-- .element: class="footer" --> Photo by <a href="https://unsplash.com/@lunarts?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Volodymyr Hryshchenko</a> on <a href="https://unsplash.com/s/photos/communication?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 
 Note:
-- In-person
-- Hybrid training
-- Chat
-- Exchange environments: chat, slack
+- Give a space for informal discussions
+- In-person: be accessible, do not force people to ask question but provide a space where they can ask questions anonymously
+- Hybrid and online training: provide documents and/or chat for interaction, use break-out rooms in Zoom
+- Generally: use exchange environments as chat, slack
+- Have a Code of conduct clearly visible and reminded at the beginning of each event
+- Make people feeling safe and welcome
 
 ----
 <!-- .slide: data-background="images/open.jpg" data-state="dim-background" -->
@@ -678,10 +698,10 @@ Note:
 - <!-- .element: class="footer" --> Photo by <a href="https://unsplash.com/@philberndt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Philipp Berndt</a> on <a href="https://unsplash.com/s/photos/open?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 
 Note:
-- Content
-- Structure
-- Communication
-- Culture to work collaboratively, not to compete
+- Clear rules for contributions
+- Make content and structure open
+- Communicate as openly as possible
+- Help to develop a culture to work collaboratively, not to compete
 
 ----
 <!-- .slide: data-background="images/feedback.jpg" data-state="dim-background" -->
@@ -691,19 +711,14 @@ Note:
 - <!-- .element: class="footer" --> Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/s/photos/opinion?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 
 Note:
-- Feedback loop
-- Collect feedback at different levels
+- Collect feedback at different levels: tutorials, training events (for learners, helpers, trainers, organzers)
+- Different way to collect feedbacks 
+    - post-it
+    - questions at the end of a shared document
+        - OLS: what worked? What didn’t work?? What would you change? What surprised you?
+    - form at the end of the online tutorial
+    - issue on GitHub
 - Apply them
-
-----
-<!-- .slide: data-background="images/instructor_training.jpg" data-state="dim-background" -->
-
-## Train instructors
-
-- <!-- .element: class="footer" --> Photo by <a href="https://unsplash.com/@bruno_nascimento?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Bruno Nascimento</a> on <a href="https://unsplash.com/s/photos/training?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
-
-Note:
-- The Carpentries
 
 ----
 <!-- .slide: data-background="images/community.jpg" data-state="dim-background" -->
@@ -714,10 +729,23 @@ Note:
 
 Note:
 - Training sustainable if driven by a community: GTN, The Carpentries
-    The Carpentries has reached more than 64,000 researchers through 2,562 workshops in 46 countries and assessment data suggests they are achieving sustainable impact. Their ability to accomplish this with an all-volunteer instructor core of more than 2,500 researchers also suggests both that SFT can be sustainable and can achieve global impact.
 - Feeling supported: Life-Sci Trainers
-Community of instructors to share the work, propagate, learn from each other (discussions, training philosophies)
 - Transparent communication between us and with the community
+
+----
+<!-- .slide: data-background="images/instructor_training.jpg" data-state="dim-background" -->
+
+## Train instructors
+
+- <!-- .element: class="footer" --> Photo by <a href="https://unsplash.com/@bruno_nascimento?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Bruno Nascimento</a> on <a href="https://unsplash.com/s/photos/training?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+
+Note:
+- To give people the opportunity to teach to their community using training resources
+- To be sustainable
+    - The Carpentries
+        - 2,500 researchers, all-volunteers
+        - more than 64,000 researchers through 2,562 workshops in 46 countries
+
 ----
 <!-- .slide: data-background="images/mentoring.jpg" data-state="dim-background" -->
 
@@ -726,16 +754,26 @@ Community of instructors to share the work, propagate, learn from each other (di
 - <!-- .element: class="footer" --> Photo by Bérénice Batut on Flickr
 
 Note:
-Mentoring
-Contributors
-New projects
-Mentor new contributors
+- on everything
+    - how to use material
+    - how to fix an error
+    - how to create new material
+    - how to teach
+    - ...
+- on full projects
+- to not be the only one to be able to do stuff
+- give responsability
 
 ----
 <!-- .slide: data-background="images/acknowledge.jpg" data-state="dim-background" -->
 ## Acknowledge the people
 
 - <!-- .element: class="footer" --> Photo by <a href="https://unsplash.com/@timoun?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tim Oun</a> on <a href="https://unsplash.com/s/photos/thank-you?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+
+Note:
+- Recognize the value of each contribution
+- Create space to thank people
+- People will be more eager to contribute and help again
 
 ----
 <!-- .slide: data-background="images/kindness.jpg" data-state="dim-background" -->
@@ -744,13 +782,16 @@ Mentor new contributors
 - <!-- .element: class="footer" --> Photo by <a href="https://unsplash.com/@krewellah87?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Andrea Tummons</a> on <a href="https://unsplash.com/s/photos/kindness?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 
 Note:
-- Trust and confidence towards each other
+- Trust and have confidence towards each other
 - Accountability, complementarity and gratitude
-- Supportive network of friends and colleagues
+- To build a supportive network of friends and colleagues
 
 ---
 
 ![](images/bioinformatics_training.png) <!-- .element width="100%" -->
+
+Note:
+- Here was my vision for empowering usable and comprehensive bioinformatics training
 
 ---
 ### Thank you!
@@ -758,13 +799,20 @@ Note:
 ![](images/thank_you.svg) <!-- .element width="95%" -->
 
 Note:
-Acknowledgement
-GTN
-OLS
+- I would like to thank
+    - University of Freiburg, Backofen lab and the Freiburg Galaxy team, who I work
+    - de.NBI for my funding
+    - ELIXIR for the support and the community
+- Most of the work I presented here was made by communities I am involved in
+    - The Carpentries
+    - Life Sci Trainers 
+    - Galaxy Training Network
+    - Open Life Science 
 
 ---
 ### Thank you!
 
 ![](images/bioinformatics_training.png) <!-- .element width="100%" -->
 
-
+Note:
+- I would like to thank you for listening to this talk
