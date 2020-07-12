@@ -3,7 +3,7 @@
 
 ### Bérénice Batut
 
-<small>[@bebatut](twitter.com/bebatut) - berenice.batut@gmail.com - [research.bebatut.fr](https://research.bebatut.fr)</small>
+<small>She/her - [@bebatut](twitter.com/bebatut) - berenice.batut@gmail.com - [research.bebatut.fr](https://research.bebatut.fr)</small>
 
 ISMB Education Cosi - July 2020
 
@@ -11,8 +11,19 @@ ISMB Education Cosi - July 2020
 ---
 ### Who am I?
 
-Not sure to have such slide
+- PhD in comparative genomics and artificial evolution, Lyon, France
+- Post-doc in the Freiburg Galaxy Team, Freiburg, Germany
+    - Biological data analysis & Tool development, mainly via Galaxy
+    - Training
+        - Co-leader of the [Galaxy Training Material](https://training.galaxyproject.org/)
+        - Co-founder of the [Gallantries](https://galaxy-carpentries.github.io/gallantries/)
+        - Co-founder and organizer of the [Open Life Science](https://openlifesci.org/)
+        - Deputy training coordinator for [de.NBI](https://www.denbi.de/), [ELIXIR](https://elixir-europe.org/) Germany
+        - [Carpentries](https://carpentries.org/) instructor
+- Mother of a 5 month old baby (*still in parental leave*)
 
+Note:
+- Parental leave before COVID-19
 
 ---
 <!-- .slide: data-background="images/student.jpg" data-state="dim-background" -->
@@ -21,11 +32,11 @@ Not sure to have such slide
 Note:
 - Sam
 - PhD student working on the impact of gut microbiota on brain cell aging
-- Background in biology, physiology, no bioinformatics
-- Need to do RNA-Seq analyses
-- Could ask a bioinformatician to do the analyses
+- Background in biology, physiology, but not in bioinformatics
+- Need to do RNA-Seq analyses for their PhD
+- Ask a bioinformatician to do the analyses
 - but Sam's bioinformaticians are always busy and don't have time to explain the different steps
-- Sam would like also to be able to understand what is done and discuss with them
+- But Sam would like also to be able to understand what is done and discuss with them the results
 - Need to learn how to analyze their data
 - But afraid it could be too complicated
 
@@ -38,13 +49,12 @@ Note:
 - No need to learn about command lin
 
 Note:
+- Sam
 - Heard about Galaxy from one of their colleague
-    - Remove a 1st barrier: Found a comprehensive website with information. Found out that they can attend a workshop and learn from experts.
-    - Remove 2nd barriere: no need to learn about command line
-- Need to learn how to analyze RNA-seq now using Galaxy
-- (before COVID) Found a training event teaching how
-    - to use Galaxy
-    - to analyze RNA-seq data
+- Think it could remove a 1st barrier
+    - Web interface for numerous bioinformatics
+    - Could use bioinformatics tools normally only accessible via command line without learning about command line
+- Remaing barier: Need to learn how to analyze RNA-seq now using Galaxy
 
 ----
 ### Learning basics about Galaxy and RNA-Seq data 
@@ -56,38 +66,55 @@ Galaxy Training Network (GTN) Material
 <small>https://training.galaxyproject.org/</small>
 
 Note:
+- (before COVID) Found a training event teaching how
+    - to use Galaxy
+    - to analyze RNA-seq data
 - Workshop using online ressources: Galaxy Training Material
-- Tutorials
+- Hands-on tutorials
     - based on paper stories
     - reproduce step-by-step a analysis
-    - learning by doing
-- UseGalaxy.eu
+    - idea: learning by doing
 
 ----
 ### Back to lab
 
 ![](images/usegalaxy_resources.png) <!-- .element width="80%" -->
 
-125+ platforms for using Galaxy
+- 125+ platforms for using Galaxy
+- UseGalaxy.*: 1000+ of documented and maintained tools, free registration, 250 GB per user & more on demand
 
 <small>https://galaxyproject.org/use/</small>
 
 Note:
-Could use the resources once back to lab
-Online
-Server accessible
+- Use during the workshop
+    - UseGalaxy.eu
+    - European Galaxy instance
+- Learn they could use it also once back to the lab
+- Or one of the 125+ other platforms for using Galaxy
+- To do their analyses
+- Example: UseGalaxy.*
+    - Thousands of documented and maintained tools
+    - Free registration
+    - 250 GB per user
+        - 500 GB for ELIXIR members
+        - More on demand
 
 ----
 ### Learning more through self-study
 
 ![](images/galaxy_training_material.svg) <!-- .element width="70%" -->
 
+- 16 topics - 160+ tutorials
+- Learning metadata & Supporting material
+- Automatic translation
+
 <small>https://training.galaxyproject.org/</small>
 
 Note:
-- 18 topics
-- 140+ tutorials
-- Learning metadata:
+- Sam
+- Could learn more
+- 16 topics - 160+ tutorials
+- Learning metadata
     - Levels
     - Requirements and follow-up
     - Learning objectives
@@ -97,55 +124,100 @@ Note:
 - Supporting material
     - Input data
     - Workflow
+    - Support Galaxy servers with needed tools
 - Automatic translation
+
+
+----
+### Getting help from the GTN Community
+
+![](images/gtn_gitter.svg) <!-- .element width="60%" -->
+
+- Public chat rooms for anyone with questions
+- Directly accessible from tutorial pages
+
+<small>https://gitter.im/Galaxy-Training-Network/</small>
+
+Note:
+- Sam
+- Has questions about tutorials
+- Open the chat directly in the tutorial page and ask their questions there
+    - Get answers from the GTN community
+    - Topic specific room, e.g. single-cell 
 
 ----
 ### Developping confidence to learn CLI
 
 ![](images/r_learning.svg) <!-- .element width="65%" -->
 
-R with RStudio inside Galaxy via interactive tools + tutorials
+R with RStudio inside Galaxy via interactive tools
 
 <small>https://live.usegalaxy.eu/</small>
 
 Note: 
-- Feels more confident
-- Want to learn more advanced
-- Start by learning R
-    - Can access RStudio directly inside Galaxy via interactive tools, reachable at live.usegalaxy.eu
-    - Learn R basics using resources adapted from The Carpentries by the Gallantries
+- Sam
+- Feel more confident about data analyses
+- Want to learn more advanced, in particular for data visualization
+- Heard can access RStudio directly inside Galaxy
+    - via interactive tools
+    - reachable at live.usegalaxy.eu
+- Start by learning R basics
+    - Resources adapted from The Carpentries by the Gallantries
 
 ----
 ### ![](images/gallantries_title.svg)
-#### To develop and deliver open and scalable training in life sciences
 
-![](images/gallantries.png) <!-- .element width="100%" -->
+![](images/gallantries.png) <!-- .element width="90%" -->
+
+- Curriculum combining Galaxy & R (here RNA-seq)
+- Hybrid training for scalable training
 
 <small>https://galaxy-carpentries.github.io/gallantries/</small>
 
 Note:
-- When Galaxy meets Carpentries to develop and deliver open and scalable training in life sciences
+- What is the Gallantries?
+- When Galaxy meets Carpentries
+- To develop and deliver open and scalable training in life sciences
+- Development of RNA-seq curriculum
+    - From sequences to visualization
+    - Combination of Galaxy and R
+- Development of new curriculums
+- Infrastructure for scalable training: hybrid training
+    - Remote instructors
+    - Direct broadcast to several locations at the same time
+    - Different sites with participants in a same room and local helpers to support them
+    - Participants and helpers asking questions and giving feedback directly to instructors via collaborative document
+- Used by several other teams like H3BIONET or Australia
+- Has been adapted to COVID situation
+- Sam participated to 1 event and get familiar with R
 
 ---
 <!-- .slide: data-background="images/learner_to_teacher.jpg" data-state="dim-background" -->
 
 ## From learner to trainer
 
+Note:
+- Sam
+- Practised a lot different data analyses and R on different data
+- Got asked to help some colleagues
+- Decided they could also learn in the same way
+- But no workshop planned soon
+
 ----
 
-#### Being a node & local helper during an hybrid training
+### Being a node & helper for an hybrid training
 
 ![](images/hybrid_training.png) <!-- .element width="60%" -->
 
 Note:
-- Back to Sam
-- Got asked to help some colleagues
-- Decided to organize a workshop
-    - Node for an hydrid training: Gallantries
+- Decided to be a node for an hydrid training of the Gallantries
+- Occasion to help her colleagues
+- See how it is to be an helper
 - Occasion to learn how to teach
+- Want to go further
 
 ----
-#### Following a training to become trainer
+### Following a training to become trainer
 
 - [ELIXIR Train the Trainer program](https://elixir-europe.org/platforms/training/train-the-trainer)
 
@@ -159,28 +231,56 @@ Note:
     1. Basics of educational psychology and instructional design
     2. How to apply both to teaching workshops for The Carpentries
 
-
 Note:
-- Want to teach now
+- Sam
+- Want to become a proper teacher
 - Follow a Train the Trainer course
     - The Carpentries instructor
     - ELIXIR
+- Learn principles of learning and teaching
+- Feel ready to give training using Galaxy
 
 ----
-### Infrastructure for Galaxy training
+### Giving Galaxy training
+
+![](images/gtn_stats.svg) <!-- .element width="80%" -->
+
+<small>https://training.galaxyproject.org/</small>
+
+Note:
+- Sam
+- Use tutorials from GTN
+    - 16 scientific topics
+    - 161 tutorials
+- Tutorials
+    - Ready to be used by instructors for workshop
+    - Detailed step-by-step data analysis
+        - Theoretical explanation of the analysis and the steps
+            - sometimes in hidden box
+        - Instruction to show directly in Galaxy how to run tools with parameters, and check the results
+        - Assessments in form of Questions + answers to think about the analysis and their results and to interact with participants
+        - Hints for some possible pitfalls
+        - Data available 
+
+----
+### Giving Galaxy training
 #### ![](images/usegalaxy_star.png)<!-- .element width="50%" -->
 
 A community of public Galaxy servers which:
 - support a wide number of tutorials
-- have all required training data
 - have at least 250 GB public quota
 - open/free registration
 
 Note:
 - Sam
+- Think about which Galaxy server using
+- usegalaxy.*, specially the US / EU / AUS
+    - support GTN tutorials with tools needed
+    - free registration with at least 250GB per users
+        - good to start
 
 ----
-### Infrastructure for Galaxy training
+### Giving Galaxy training
 #### Shared data
 
 ![](images/gtn_data.svg) <!-- .element width="60%" -->
@@ -191,11 +291,12 @@ Note:
 
 Note:
 - Sam
-- All of the data, for every GTN tutorial, is synced across all three official usegalaxy.* instances (US, EU, AU).
+- All of the data, for every GTN tutorials, synced across all 3 official usegalaxy.* instances (US, EU, AU).
 - This is automatically updated every 2 weeks
+- Decide to use the european Galaxy server
 
 ----
-### Infrastructure for Galaxy training
+### Giving Galaxy training
 #### Training Infrastructure as a Service (TiaaS)
 
 ![](images/tiaas.svg) <!-- .element width="70%" -->
@@ -206,62 +307,57 @@ Note:
 <small>https://galaxyproject.eu/tiaas</small>
 
 Note:
-- Sam do need to worry on the infrastructure
-- TiaaS
-    - Free service from UseGalaxy.eu for open Galaxy Trainings
+- Sam
+- Do need to worry on the infrastructure
     - All of the tools and power of EU
         - No Galaxy Maintenance
         - No Galaxy Administration
-    - Private queue for your users
-        - Jobs run faster, no waiting in the main queue. No delays in your training
+- Read about the Training Infrastructure as a Service (TiaaS)
+    - Even better
+    - Free registration
+    - Private queue for training participants
+        - Jobs run faster
+        - No waiting in the main queue
+        - No delays in the training
     - Official Galaxy Training Materials are guaranteed to work and regularly tested
     - A dashboard to see how your students are progressing
-        - Anonymous, public overview of students in your course
-        - useful with COVID-19 and remote training to know what your students are doing
+        - Anonymous, public overview of training participants
+        - useful with remote training
 
 ----
-### Infrastructure for Galaxy training
-#### GTN Community
+### Joining the Galaxy Training Network
 
-![](images/gtn_gitter.png) <!-- .element width="40%" -->
+![](images/gtn.png) <!-- .element width="80%" -->
 
-Public chat room for anyone with **training questions**, **looking for a trainer**, or just **needing help** with a tutorial
-
-<small>https://gitter.im/Galaxy-Training-Network/Lobby</small>
+<small>https://galaxyproject.org/teach/</small>
 
 Note:
 - Sam
+- Give several workshop
+- Join the Galaxy Training Network
 
 ----
 ### Joining a large community of trainers
 
 ![](images/lifescitrainers.svg) <!-- .element width="80%" -->
 
-A place to share resources, advice, and conversation via a website, a Slack workspace, and monthly community calls
+A place to share resources, advice, and conversation: a website, a Slack workspace, and monthly community calls
 
 <small>https://lifescitrainers.org/</small>
 
 Note:
 - Sam
-- Vision: LifeSciTrainers improves life science by ensuring scientists and educators have the latest skills and knowledge they need to succeed. 
-- Mission: LifeSciTrainers accomplishes its mission by building a global community of practice for life science trainers: anyone who delivers short-format training (workshops, boot camps, short-courses, etc.) – often on new and quickly evolving topics – in the life sciences. Community-of-practice involves establishing forums for these trainers to share their knowledge, resources, and expertise, develop and promote standards for training, open educational resources, and establish the role of trainer as a vital position within the life science community. 
-
-    Key activities of this group include:
-
+- Invited to join a large community of trainers
+- LifeSciTrainers
+    - building a global community of practice
+    - to improve life science by ensuring scientists and educators have the latest skills and knowledge they need to succeed
+- Key activities of this group include
     - Advocating for trainers as vital members of the life science community.
     - Sharing knowledge and expertise related to professional development of trainers in the life sciences.
     - Developing and promoting standards (e.g. community consensus practices) for short-format training in life sciences.
-
-- Why we exist  – What are the challenges and opportunities that lead to this community’s formation
-
-    Challenges:
-
-    - No matter how much the training behind a degree is updated and improved, the shelf-life of skills is getting shorter in a rapidly changing, more interdisciplinary world. As a result, many life scientists and life science educators find they lack access to the training and skills they need to deliver the best quality research and education. 
-    - Short-format training has been used extensively in the life sciences. Evidence and collective experience show that short-format training has challenges in achieving sustained learning, and we have difficulty understanding the long-term impact of this form of training. Because topics evolve quickly, it is difficult for us to iterate our materials and direct their sustained improvement. 
-    - We typically fail to create organizational structures (e.g. professional societies, journals) that could unite efforts, promote excellence amongst these trainers, or result in professional recognition and career paths. 
-
-- Slack
-- >300 members
+- Slack with >300 members
+- Monthly community call
+- Website with resources and trainer registry and biographies
 
 ---
 <!-- .slide: data-background="images/contributing.jpg" data-state="dim-background" -->
@@ -276,33 +372,56 @@ Note:
 
 ----
 ### Developping training material for Galaxy
-#### Following the tutorials
 
-![](images/gtn_contributing_tutorials.png) <!-- .element width="60%" -->
+![](images/gtn_contributing_tutorials.svg) <!-- .element width="60%" -->
+
+- Tutorials written in Markdown and rendered with Jekyll
+- Documentation in the form of tutorials
+
+Note:
+- Sam
+- Follow tutorials for contributions
+    - step-by-step
+    - modification of existing tutorials to creating new tutorials or topics
+- Tutorials
+    - written in Markdown, to be as easy as possible
+    - some formatting to create special boxes (hands-on, questions, etc)
+    - Jekyll to render the tutorials and generate the website
 
 ----
 ### Developping training material for Galaxy
-#### Generating the skeleton of a tutorial from a workflow in Galaxy using the Training Development Kit
 
 ![](images/tdk.png) <!-- .element width="70%" -->
+
+Generation of the skeleton of a tutorial from a workflow in Galaxy with the Training Development Kit
 
 <small>https://ptdk.herokuapp.com/</small>
 
 Note:
-- Use the Galaxy Training Development kit to create a new tutorial
+- Sam
+- Read and use the Training Development Kit
+    - Webserver to create the skeleton of a tutorial
+    - Takes a workflow on a Galaxy instance
+    - Extract the different steps of the workflow and format them in a tutorial, including the parameters
+    - Create an archive with the correct structure for the Galaxy Training materials
+    - "Just" need to add the pedagogical aspects (explanations, questions, etc)
 
 ----
 ### Developing training material for Galaxy
-#### An open development process, with mentoring
 
 ![](images/open_development.svg) <!-- .element width="100%" -->
+
+An open development process with support from the community
 
 <small>https://github.com/galaxyproject/training-material/</small>
 
 Note:
-- Submit it to GitHub as a PR
-- Got help and reviews...
-- Mentoring to empower contributors
+- Sam
+- Get tutorial ready and want to submit it to the community
+- Galaxy Training Material stored on GitHub
+- Submit new tutorial to GitHub as a Pull Request
+- Get reviews and also help from other contributors
+    - A "senior" contributor gives comments and may also provide some sort of mentoring
 
 ----
 ### Joining the community of contributors
@@ -313,20 +432,9 @@ Note:
 
 Note:
 - Sam
+- Got tutorials added to the GT material
 - Become part of a community of contributors
-
-----
-### Joining the community
-#### Online CoFest and community calls
-
-![](images/cofests.png) <!-- .element width="60%" -->
-
-- Every 3 months
-- One day of CoFest
-- 2 community calls
-
-Note:
-- Sam
+- Got listed in the Hall of Fame and their own page (tutorials, description, etc)
 
 ----
 ### Getting feedback on training material
@@ -338,8 +446,9 @@ Note:
 
 Note:
 - Sam
-- Online
-- Got feedback
+- With tutorial online, can get feedback from people who take them
+- Feedback form directly at bottom of tutorials
+- Results collected in Google form and submitted to a GitHub issue to make them visible 
 
 ----
 ### Getting feedback on training material
@@ -350,15 +459,23 @@ Note:
 - Pro & con at tutorial level
 
 Note:
-- Sam
+- More than 1,200 (mostly positve) feedback collected in less than 2 years
+- Details about what is working and what could be improved for each tutorial
+- Feedback aggregated and reported to the community regularly
 
 ----
-### Reviewing content & Contributing
+### Joining the community
+
+![](images/cofests.png) <!-- .element width="60%" -->
+
+Online CoFests and community calls several times per year
 
 Note:
 - Sam
+- Get involved in the community
+- Participate to the online CoFests and community calls
 - Want to be more involved
-- Review content
+- Review content & Contributing
 
 ---
 <!-- .slide: data-background="images/ols_story.jpg" data-state="dim-background" -->
