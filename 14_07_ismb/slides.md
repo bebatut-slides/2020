@@ -3,7 +3,7 @@
 
 ### Bérénice Batut
 
-<small>She/her - [@bebatut](twitter.com/bebatut) - berenice.batut@gmail.com - [research.bebatut.fr](https://research.bebatut.fr)</small>
+<small>She/her - [@bebatut](twitter.com/bebatut) - berenice.batut@gmail.com - [bit.ly/bebatut-ismb-2020](https://bit.ly/bebatut-ismb-2020)</small>
 
 ISMB Education Cosi - July 2020
 
@@ -85,7 +85,7 @@ Note:
     - idea: learning by doing
 
 ----
-### Back to lab
+### Using Galaxy back to the lab
 
 ![](images/usegalaxy_resources.png) <!-- .element width="80%" -->
 
@@ -315,6 +315,9 @@ Note:
 
 <small>https://galaxyproject.eu/tiaas</small>
 
+- <!-- .element: class="footer" --> Image from <a href="https://docs.google.com/presentation/d/1QyWs3Xq9ptY111vJLVztDN12xG_ztr44AMYOrhga39U/present?token=AC4w5VjhCWLRj6G0N80vDJrdU9-mvVIAmw%3A1594726609590&includes_info_params=1&eisi=CJyb0cjTzOoCFRnDZwodYV0GRg#slide=id.g8a93717f2f_0_7">BCC2020: Train the Trainer</a>
+
+
 Note:
 - Sam
 - Do need to worry on the infrastructure
@@ -522,7 +525,7 @@ Note:
 
 ![](images/ols_mentee.png) <!-- .element width="70%" -->
 
-<small>[OLS image for BCC talk](https://docs.google.com/presentation/d/13oi1NjwnStAwC0PqIB22xwai_iUQRDQ94BIwR7b5yH4/present?token=AC4w5Vh5PZq0YVvpS5DjAlnjrFFQTYBYHg%3A1594229079112&includes_info_params=1&eisi=COGczo-WvuoCFW3E0gQdQDEANg#slide=id.g8ae0064c0e_0_122)</small>
+- <!-- .element: class="footer" --> Image from <a href="https://docs.google.com/presentation/d/13oi1NjwnStAwC0PqIB22xwai_iUQRDQ94BIwR7b5yH4/present?token=AC4w5Vh5PZq0YVvpS5DjAlnjrFFQTYBYHg%3A1594229079112&includes_info_params=1&eisi=COGczo-WvuoCFW3E0gQdQDEANg#slide=id.g8ae0064c0e_0_122">BCC 2020: OLS talk</a>
 
 Note:
 - Sam
@@ -539,7 +542,7 @@ Note:
 
 ![](images/ols_mentor.png) <!-- .element width="70%" -->
 
-<small>[OLS image for BCC talk](https://docs.google.com/presentation/d/13oi1NjwnStAwC0PqIB22xwai_iUQRDQ94BIwR7b5yH4/present?token=AC4w5Vh5PZq0YVvpS5DjAlnjrFFQTYBYHg%3A1594229079112&includes_info_params=1&eisi=COGczo-WvuoCFW3E0gQdQDEANg#slide=id.g8b9c80d844_0_14)</small>
+- <!-- .element: class="footer" --> Image from <a href="https://docs.google.com/presentation/d/13oi1NjwnStAwC0PqIB22xwai_iUQRDQ94BIwR7b5yH4/present?token=AC4w5Vh5PZq0YVvpS5DjAlnjrFFQTYBYHg%3A1594229079112&includes_info_params=1&eisi=COGczo-WvuoCFW3E0gQdQDEANg#slide=id.g8ae0064c0e_0_122">BCC 2020: OLS talk</a>
 
 Note:
 - Sam
